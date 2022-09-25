@@ -1,0 +1,7 @@
+C:\Users\VirusTest\source\repos\Plaxingo-Spoofer\Plaxingo-Spoofer\bin\Debug\Plaxingo-Spoofer.exe.config
+C:\Users\VirusTest\source\repos\Plaxingo-Spoofer\Plaxingo-Spoofer\bin\Debug\Plaxingo-Spoofer.exe
+C:\Users\VirusTest\source\repos\Plaxingo-Spoofer\Plaxingo-Spoofer\bin\Debug\Plaxingo-Spoofer.pdb
+C:\Users\VirusTest\source\repos\Plaxingo-Spoofer\Plaxingo-Spoofer\obj\Debug\Plaxingo-Spoofer.csproj.AssemblyReference.cache
+C:\Users\VirusTest\source\repos\Plaxingo-Spoofer\Plaxingo-Spoofer\obj\Debug\Plaxingo-Spoofer.csproj.CoreCompileInputs.cache
+C:\Users\VirusTest\source\repos\Plaxingo-Spoofer\Plaxingo-Spoofer\obj\Debug\Plaxingo-Spoofer.exe
+C:\Users\VirusTest\source\repos\Plaxingo-Spoofer\Plaxingo-Spoofer\obj\Debug\Plaxingo-Spoofer.pdb
